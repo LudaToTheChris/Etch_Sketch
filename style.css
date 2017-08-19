@@ -1,0 +1,31 @@
+/*Invisible Container*/
+div {width: 200px;
+height: 300px;
+margin: auto;}
+
+.holder {
+	margin:auto;
+}
+
+/*square tiles*/
+div div { height: 16px; 
+	width: 16px; 
+	background: blue;
+	float: left;
+	padding: 10px;
+	border: solid;
+	margin: 2.5px;
+	display: inline-block;
+	float: left;
+}
+
+/*buttons*/
+
+input {
+	color: blue;
+	padding: 2px;
+	display: inline-block;
+	float: middle;
+
+	
+}
